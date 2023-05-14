@@ -1,7 +1,7 @@
 # analise-pandas-sunspec
 Este é um projeto de análise de dados lidos de inversores solares no padrão Sunspec.
 
-> Status do Projeto: Em teste :stopwatch:
+> Status: Em teste :stopwatch:
 ---
 ## Protocolo de Comunicação
 A aquisição de dados dos inversores é feita com auxílio do Pymodbus, uma implementação do protocolo Modbus com um padrão Sunspec.
